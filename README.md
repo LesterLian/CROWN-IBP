@@ -1,6 +1,11 @@
 CROWN-IBP: Towards Stable and Efficient Training of Verifiably Robust Neural Networks
 ========================
 
+##This repo is forked from [CROWN-IBP](https://github.com/huanzhang12/CROWN-IBP). Some codes are modified for use in [Improving Certified Defense Algorithms with Boosting](https://github.com/LesterLian/boosting-certified-defense)
+
+Below are original README
+========================
+
 CROWN-IBP is a *certified defense* to adversarial examples, which combines a
 tight linear relaxation based verification bound
 ([CROWN](http://arxiv.org/pdf/1811.00866.pdf)) with the efficient interval bound propagation
